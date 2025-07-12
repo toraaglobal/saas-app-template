@@ -1,1 +1,0 @@
-# WSGI configuration placeholder
